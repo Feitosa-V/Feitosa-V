@@ -7,5 +7,6 @@
 - 🌱 Atualmente estou cursando o 3° período em Sistemas de Informação na Fagammon.
 
 ## Habilidades
-<img src=""/>
-
+<p align="center">
+<img width="410" src="https://user-images.githubusercontent.com/75453961/116896807-f7160d00-ac0a-11eb-9584-2133e8518616.png">
+</p>
