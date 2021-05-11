@@ -10,3 +10,15 @@
 <p align="center">
 <img width="340" src="https://user-images.githubusercontent.com/75453961/116896807-f7160d00-ac0a-11eb-9584-2133e8518616.png">
 </p>
+
+## Social
+<div align="center">
+  <a href="https://www.linkedin.com/in/feitosa-v/">  
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a  href="https://www.instagram.com/feitosa.vinicius/">
+      <img  src="https://img.shields.io/badge/Instagram-832de8?style=for-the-badge&logo=instagram&logoColor=white" >
+  </a> 
+</div>
+
