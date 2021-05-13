@@ -1,4 +1,4 @@
-### Olá ![waving_hand](https://user-images.githubusercontent.com/75453961/118198175-bd24e200-b426-11eb-8e5a-a98a43eee82c.gif)
+### Olá <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
 
 - 😁 Me chamo Vinícius Feitosa Franco Silva, tenho 18 anos e estou buscando um estágio na área da programação para conseguir colocar os conhecimentos em prática. Comecei a estudar programação em 2020 e desde então venho criando um gosto enorme pela área. 
 
@@ -13,10 +13,14 @@
   <a href="https://github.com/Feitosa-V">
   
    <img width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   &nbsp;&nbsp;&nbsp;&nbsp;
    <img width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   &nbsp;&nbsp;&nbsp;&nbsp;
    <img width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-   <img width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
+   &nbsp;&nbsp;&nbsp;&nbsp;
    <img width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+   &nbsp;&nbsp;&nbsp;&nbsp;
+   <img width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   
   </a>
 </div>
