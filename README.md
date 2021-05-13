@@ -6,13 +6,23 @@
 
 - 🌱 Atualmente estou cursando o 3° período em Sistemas de Informação na Fagammon.
 
+
 ## Habilidades
-<p align="center">
-<img width="340" src="https://user-images.githubusercontent.com/75453961/116896807-f7160d00-ac0a-11eb-9584-2133e8518616.png">
-</p>
+<div align="center" style="display: inline_block"> <br>
+  
+  
+  <img width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
+  <img width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+  
+  
+</div>
+
 
 ## Social
-<div align="center">
+<div align="center"><br>
   
   <a href="https://www.linkedin.com/in/feitosa-v/">  
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
