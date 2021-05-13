@@ -1,4 +1,4 @@
-### Olá 👋
+### Olá ![waving_hand](https://user-images.githubusercontent.com/75453961/118198175-bd24e200-b426-11eb-8e5a-a98a43eee82c.gif)
 
 - 😁 Me chamo Vinícius Feitosa Franco Silva, tenho 18 anos e estou buscando um estágio na área da programação para conseguir colocar os conhecimentos em prática. Comecei a estudar programação em 2020 e desde então venho criando um gosto enorme pela área. 
 
@@ -7,7 +7,7 @@
 - 🌱 Atualmente estou cursando o 3° período em Sistemas de Informação na Fagammon.
 
 
-## Habilidades
+## Habilidades ![direct_hit](https://user-images.githubusercontent.com/75453961/118198439-45a38280-b427-11eb-80cc-1ef78f98f79d.gif)
 <div align="center" style="display: inline_block"> <br>
   
   <a href="https://github.com/Feitosa-V">
@@ -22,7 +22,7 @@
 </div>
 
 
-## Social
+## Social ![hot_beverage](https://user-images.githubusercontent.com/75453961/118198959-5d2f3b00-b428-11eb-9d45-08ca7e542bed.gif)
 <div align="center"><br>
   
   <a href="https://www.linkedin.com/in/feitosa-v/">  
@@ -39,4 +39,5 @@
    </a>
   
 </div>
+
 
