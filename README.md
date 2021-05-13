@@ -25,16 +25,16 @@
 ## Social
 <div align="center"><br>
   
-  <a href="https://www.linkedin.com/in/feitosa-v/">  
+  <a href="https://www.linkedin.com/in/feitosa-v/" target="_blank">  
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <a  href="https://www.instagram.com/feitosa.vinicius/">
+  <a  href="https://www.instagram.com/feitosa.vinicius/" target="_blank">
       <img  src="https://img.shields.io/badge/Instagram-832de8?style=for-the-badge&logo=instagram&logoColor=white" >
   </a> 
   
   
-   <a href="mailto:vifesi4321@gmail.com?subject=Olá%20">
+   <a href="mailto:vifesi4321@gmail.com?subject=Olá%20" >
       <img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=">
    </a>
   
