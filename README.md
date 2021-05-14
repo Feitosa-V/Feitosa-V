@@ -1,12 +1,12 @@
 ### *Olá* &nbsp; <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
 
-- 😁 *Me chamo Vinícius Feitosa Franco Silva, tenho 18 anos e estou buscando um estágio na área da programação para conseguir colocar os conhecimentos em prática. Comecei a estudar programação em 2020 e desde então venho criando um gosto enorme pela área.* 
+- <img width="25" src="https://user-images.githubusercontent.com/75453961/118221132-6e417180-b453-11eb-9180-2fcbfea55ee5.gif"> *Me chamo Vinícius Feitosa Franco Silva, tenho 18 anos e estou buscando um estágio na área da programação para conseguir colocar os conhecimentos em prática. Comecei a estudar programação em 2020 e desde então venho criando um gosto enorme pela área.* 
 
-- 🔭 *Estou trabalhando na empresa Marelli como jovem aprendiz, na área de garantia e suporte ao cliente.*
+- <img width="25" src="https://user-images.githubusercontent.com/75453961/118221337-caa49100-b453-11eb-8aed-9762ff830a46.gif"> *Estou trabalhando na empresa Marelli como jovem aprendiz, na área de garantia e suporte ao cliente.*
 
-- 🌱 *Atualmente estou cursando o 3° período em Sistemas de Informação na Fagammon.*
+- <img width="25" src="https://user-images.githubusercontent.com/75453961/118221549-38e95380-b454-11eb-8792-eb2bd6fcd974.gif"> *Atualmente estou cursando o 3° período em Sistemas de Informação na Fagammon.*
 
-
+- <img width="25" src="https://user-images.githubusercontent.com/75453961/118222253-a0ec6980-b455-11eb-8ead-06363afc3965.gif"> *Sou apaixonado por música, nos momentos livres gosto de tocar um violão.*
 
 
 ## *Habilidades* &nbsp; <img width="40" src="https://user-images.githubusercontent.com/75453961/118220101-36d1c580-b451-11eb-9eda-9f53643378e0.gif">
@@ -41,6 +41,7 @@
   <a  href="https://www.instagram.com/feitosa.vinicius/">
       <img  src="https://img.shields.io/badge/Instagram-832de8?style=for-the-badge&logo=instagram&logoColor=white" >
       &nbsp;
+
   </a> 
     
    <a href="mailto:vifesi4321@gmail.com?subject=Olá%20">
