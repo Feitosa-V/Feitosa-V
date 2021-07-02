@@ -24,6 +24,8 @@
    <img width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
    &nbsp;&nbsp;&nbsp;&nbsp;
    <img width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+   &nbsp;&nbsp;&nbsp;&nbsp;
+   <img width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   
   </a>
 </div>
