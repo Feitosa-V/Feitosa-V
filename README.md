@@ -25,7 +25,7 @@
    &nbsp;&nbsp;&nbsp;&nbsp;
    <img width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
    &nbsp;&nbsp;&nbsp;&nbsp;
-   <img width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+   <img width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   
   </a>
 </div>
