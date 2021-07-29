@@ -4,7 +4,7 @@
 
 - <img width="25" src="https://user-images.githubusercontent.com/75453961/118221337-caa49100-b453-11eb-8aed-9762ff830a46.gif"> &nbsp; *Estou trabalhando na empresa Marelli como jovem aprendiz, na área de garantia e suporte ao cliente.* <br/><br/>
 
-- <img width="25" src="https://user-images.githubusercontent.com/75453961/118221549-38e95380-b454-11eb-8792-eb2bd6fcd974.gif"> &nbsp; *Atualmente estou cursando o 3° período em Sistemas de Informação na Fagammon.* <br/><br/>
+- <img width="25" src="https://user-images.githubusercontent.com/75453961/118221549-38e95380-b454-11eb-8792-eb2bd6fcd974.gif"> &nbsp; *Atualmente estou cursando o 4° período em Sistemas de Informação na Fagammon.* <br/><br/>
 
 - <img width="25" src="https://user-images.githubusercontent.com/75453961/118222253-a0ec6980-b455-11eb-8ead-06363afc3965.gif"> &nbsp; *Sou apaixonado por música, nos momentos livres gosto de tocar um violão.*
 
