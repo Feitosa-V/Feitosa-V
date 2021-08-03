@@ -26,6 +26,8 @@
    <img width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
    &nbsp;&nbsp;&nbsp;&nbsp;
    <img width="63" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+   &nbsp;&nbsp;&nbsp;&nbsp;
+   <img width="63" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
   
   </a>
 </div>
