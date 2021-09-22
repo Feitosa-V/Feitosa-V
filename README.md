@@ -28,6 +28,9 @@
    <img width="63" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
    &nbsp;&nbsp;&nbsp;&nbsp;
    <img width="63" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
+   &nbsp;&nbsp;&nbsp;&nbsp;
+   <img width="63" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" />
+
   
   </a>
 </div>
