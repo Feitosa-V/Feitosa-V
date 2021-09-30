@@ -21,15 +21,15 @@
    &nbsp;&nbsp;&nbsp;&nbsp;
    <img width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
    &nbsp;&nbsp;&nbsp;&nbsp;
-   <img width="63" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+   <img width="67" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
    &nbsp;&nbsp;&nbsp;&nbsp;
    <img width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
    &nbsp;&nbsp;&nbsp;&nbsp;   
    <img width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
    &nbsp;&nbsp;&nbsp;&nbsp;
-   <img width="63" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" />
+   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" />
    &nbsp;&nbsp;&nbsp;&nbsp;
-   <img width="63" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
+   <img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
 
   
   </a>
