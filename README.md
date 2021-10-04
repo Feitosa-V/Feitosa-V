@@ -42,12 +42,12 @@
   
   <a href="https://www.linkedin.com/in/feitosa-v/">  
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-      &nbsp;
+      &nbsp;&nbsp;
   </a>
 
   <a  href="https://www.instagram.com/feitosa.vinicius/">
       <img  src="https://img.shields.io/badge/Instagram-832de8?style=for-the-badge&logo=instagram&logoColor=white" >
-      &nbsp;
+      &nbsp;&nbsp;
 
   </a> 
     
