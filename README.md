@@ -49,6 +49,7 @@
       <img  src="https://img.shields.io/badge/Instagram-832de8?style=for-the-badge&logo=instagram&logoColor=white" >
       &nbsp;&nbsp;
 
+    
   </a> 
     
    <a href="mailto:vifesi4321@gmail.com?subject=Olá%20">
