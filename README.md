@@ -21,7 +21,7 @@
    &nbsp;&nbsp;&nbsp;&nbsp;
    <img width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
    &nbsp;&nbsp;&nbsp;&nbsp;
-   <img width="68" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+   <img width="69" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
    &nbsp;&nbsp;&nbsp;&nbsp;
    <img width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
    &nbsp;&nbsp;&nbsp;&nbsp;   
