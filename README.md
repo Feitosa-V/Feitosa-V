@@ -2,7 +2,7 @@
 
 - <img width="25" src="https://user-images.githubusercontent.com/75453961/118221132-6e417180-b453-11eb-9180-2fcbfea55ee5.gif"> &nbsp; *Me chamo Vinícius Feitosa Franco Silva, tenho 19 anos e estou sempre buscando aprimorar meus conhecimentos. Comecei a estudar programação em 2020 e desde então venho criando um gosto enorme pela área.* <br/><br/>
 
-- <img width="25" src="https://user-images.githubusercontent.com/75453961/118221337-caa49100-b453-11eb-8aed-9762ff830a46.gif"> &nbsp; *Estou trabalhando no Grupo SN como desenvolvedor Web.* <br/><br/>
+- <img width="25" src="https://user-images.githubusercontent.com/75453961/118221337-caa49100-b453-11eb-8aed-9762ff830a46.gif"> &nbsp; *Estou trabalhando no Grupo SN como Desenvolvedor Web.* <br/><br/>
 
 - <img width="25" src="https://user-images.githubusercontent.com/75453961/118221549-38e95380-b454-11eb-8792-eb2bd6fcd974.gif"> &nbsp; *Atualmente estou cursando o 4° período em Sistemas de Informação na Fagammon.* <br/><br/>
 
