@@ -29,6 +29,10 @@
    &nbsp;&nbsp;&nbsp;&nbsp;
    <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" />
    &nbsp;&nbsp;&nbsp;&nbsp;
+   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" />
+   &nbsp;&nbsp;&nbsp;&nbsp;
+   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+   &nbsp;&nbsp;&nbsp;&nbsp;
    <img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
 
   
