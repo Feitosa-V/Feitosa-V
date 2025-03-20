@@ -48,11 +48,6 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
       &nbsp;&nbsp;
   </a>
-
-  <a  href="https://www.instagram.com/feitosa.vinicius/">
-      <img  src="https://img.shields.io/badge/Instagram-832de8?style=for-the-badge&logo=instagram&logoColor=white" >
-      &nbsp;&nbsp;
-  </a> 
     
    <a href="mailto:vifesi4321@gmail.com?subject=Olá%20">
       <img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=">
