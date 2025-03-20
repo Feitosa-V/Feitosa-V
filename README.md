@@ -1,6 +1,6 @@
 ## *Olá* &nbsp; <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
 
-- <img width="25" src="https://user-images.githubusercontent.com/75453961/118221132-6e417180-b453-11eb-9180-2fcbfea55ee5.gif"> &nbsp; *Me chamo Vinícius Feitosa Franco Silva, tenho 22 anos e estou sempre buscando aprimorar meus conhecimentos. Comecei a estudar programação em 2020 e desde então venho criando um gosto enorme pela área.* <br/><br/>
+- <img width="25" src="https://user-images.githubusercontent.com/75453961/118221132-6e417180-b453-11eb-9180-2fcbfea55ee5.gif"> &nbsp; *Me chamo Vinícius Feitosa Franco Silva, tenho 23 anos e estou sempre buscando aprimorar meus conhecimentos. Comecei a estudar programação em 2020 e desde então venho criando um gosto enorme pela área.* <br/><br/>
 
 - <img width="25" src="https://user-images.githubusercontent.com/75453961/118221337-caa49100-b453-11eb-8aed-9762ff830a46.gif"> &nbsp; *Estou trabalhando no Grupo SN como Analista de Desenvolvimento.* <br/><br/>
 
